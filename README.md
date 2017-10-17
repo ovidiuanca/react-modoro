@@ -1,3 +1,19 @@
+## Application Story
+
+This application uses the pomodoro technique for increasing your productivity.
+If you don't know what this technique is you can check it out here:
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+## How it works:
+
+You have a timer that start a new work session.
+If you finish your work session you will gain points, but if you don't you will
+lose points.
+You will be able to see how you stand against your friends using a leaderboard
+section.
+
+==========
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
